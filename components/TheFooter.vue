@@ -10,7 +10,7 @@
           </div>
         </div>
         <div class="md:w-[50%] pt-4">
-          <div class="text-lg font-semibold text-[#282828]">AliExpress Multi-Language Sites</div>
+          <div class="text-lg font-semibold text-[#282828]">MarketSphere Multi-Language Sites</div>
           <div class="text-[#999999] text-sm">
             Russian, Portuguese, Spanish, French, German, Italian, Dutch, Turkish, Japanese, Korean,
             Thai, Vietnamese, Arabic, Hebrew, Polish
@@ -23,13 +23,13 @@
           <div class="text-lg font-semibold text-[#282828]">Browse by Category</div>
           <div class="text-[#999999] text-sm">
             All Popular, Product, Promotion, Low Price, Great Value, Reviews, Blog, Seller Portal,
-            BLACK FRIDAY, AliExpress Assistant
+            BLACK FRIDAY, MarketSphere Assistant
           </div>
         </div>
         <div class="md:w-[50%] pt-4">
           <div class="text-lg font-semibold text-[#282828]">Alibaba Group</div>
           <div class="text-[#999999] text-sm">
-            Alibaba Group Website, AliExpress, Alimama, Alipay, Fliggy, Alibaba Cloud, Alibaba
+            Alibaba Group Website, MarketSphere, Alimama, Alipay, Fliggy, Alibaba Cloud, Alibaba
             International, AliTelecom, DingTalk, Juhuasuan, Taobao Marketplace, Tmall, Taobao
             Global, AliOS, 1688
           </div>
@@ -43,7 +43,7 @@
       Intellectual Property Protection - Privacy Policy - Sitemap - Terms of Use - Information for
       EU consumers - Transaction Services Agreement for non-EU/UK Consumers - Terms and Conditions
       for EU/EEA/UK Consumers (Transactions) - User Information Legal Enquiry Guide ©️2010-2022
-      AliExpress.com. All rights reserved. 增值电信业务经营许可证 浙B2-20120091-8 浙公网安备
+      MarketSphere.com. All rights reserved. 增值电信业务经营许可证 浙B2-20120091-8 浙公网安备
       33010802002248号
     </div>
   </div>

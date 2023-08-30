@@ -4,7 +4,7 @@
       <ul
         class="flex items-center justify-end text-xs text-[#333333] font-light px-2 h-10 bg-[#FAFAFA] max-w-[1200px] mx-auto"
       >
-        <li>Sell On AliExpress</li>
+        <li>Sell On MarketSphere</li>
         <li>Cookie Preferences</li>
         <li>Help</li>
         <li>Buyer Protection</li>
@@ -26,10 +26,10 @@
     </div>
     <div id="MainHeader" class="flex items-center w-full bg-white">
       <div
-        class="flex lg:justify-start justify-between gap-10 max-w-[1150px] w-full px-3 py-5 max-auto"
+        class="flex lg:justify-start justify-between items-center gap-10 max-w-[1150px] w-full px-3 py-5 max-auto"
       >
         <NuxtLink to="/" class="min-w-[170px]">
-          <nuxt-img src="/images/AliExpress-logo.png" width="170"></nuxt-img>
+          <nuxt-img src="/images/logo.png" width="150"></nuxt-img>
         </NuxtLink>
         <div class="max-w-[700px] w-full md:block hidden">
           <div class="relative">

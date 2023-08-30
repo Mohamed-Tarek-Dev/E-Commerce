@@ -4,7 +4,7 @@
     class="absolute bg-white w-[220px] text-[#333333] z-40 top-[38px] -left-[102px] border-x border-b"
   >
     <div v-if="true" class="border-b">
-      <div class="text-bold text-[15px] my-4 px-3">Welcome to ALiExpress</div>
+      <div class="text-bold text-[15px] my-4 px-3">Welcome to MarketSphere</div>
       <div class="flex items-center gap-1 px-3 mb-3">
         <NuxtLink to="/auth" class="link">Login / Register</NuxtLink>
       </div>
